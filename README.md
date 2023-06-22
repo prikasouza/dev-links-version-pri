@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Projeto desenvolvido ap'os a finalização do curso Discover desenvolvido pela Rocketseat para aprendizado de tecnologias WEB.  <br/>
+Projeto final desenvolvido após a finalização da trilha Discover da Rocketseat para aprendizado de tecnologias WEB.  <br/>
 </p>
 
 
